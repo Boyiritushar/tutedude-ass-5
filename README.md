@@ -17,7 +17,7 @@ Show a "student not found" message if the name is missing.
 
 Code 2: Student Marks Lookup (Version 2 – Duplicate)
 Description:
-This is a duplicate of Code 1, performing the same function:
+This is a duplicate of Code 1, performing the same function :
 
 Takes a student’s name as input and looks up their marks in a predefined dictionary.
 
